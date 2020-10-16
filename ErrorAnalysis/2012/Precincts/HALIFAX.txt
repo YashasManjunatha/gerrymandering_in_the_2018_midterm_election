@@ -1,0 +1,25 @@
+butwd
+conc
+enf 2
+enf1
+fauct
+hal
+hol
+hpr
+lit 1
+lit 2
+ringw
+rr 10
+rr 11
+rr 3
+rr 4
+rr 5
+rr 6
+rr 7
+rr 8
+rr 9
+rr1-2
+sn
+wel 1
+wel 2
+wel 3

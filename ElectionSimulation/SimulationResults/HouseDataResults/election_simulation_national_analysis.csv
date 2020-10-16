@@ -1,0 +1,17 @@
+ElectionDate,MapType,DemocratDistricts,RepublicanDistricts
+2016,Compact,193,240
+2016,Competitive,197,236
+2016,Dem,227,207
+2016,GOP,175,257
+2016,MajMin,199,234
+2016,Proportional,206,228
+2016,algorithmic-compact,192,240
+2016,current,192,240
+2018,Compact,241,193
+2018,Competitive,263,171
+2018,Dem,255,179
+2018,GOP,216,218
+2018,MajMin,241,193
+2018,Proportional,249,185
+2018,algorithmic-compact,238,196
+2018,current,238,196

@@ -1,0 +1,8 @@
+PRECINCT	DEM	REP	TOTAL
+belvid	209	281	490
+parkvi	574	630	1204
+bethel	731.0	1259.0	1990.0
+new ho	510	885	1395
+nicano	74	74	148
+east h	406	211	617
+west h	289	268	557

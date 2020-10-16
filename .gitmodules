@@ -1,0 +1,9 @@
+[submodule "redistricting-atlas-data"]
+	path = redistricting-atlas-data
+	url = https://github.com/fivethirtyeight/redistricting-atlas-data.git
+[submodule "openelections-results-nc"]
+	path = openelections-results-nc
+	url = https://github.com/openelections/openelections-results-nc.git
+[submodule "US_County_Level_Election_Results_08-16"]
+	path = US_County_Level_Election_Results_08-16
+	url = https://github.com/tonmcg/US_County_Level_Election_Results_08-16

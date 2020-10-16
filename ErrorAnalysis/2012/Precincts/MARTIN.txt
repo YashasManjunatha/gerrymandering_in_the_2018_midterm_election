@@ -1,0 +1,13 @@
+bg
+cr
+gn
+gr
+hm
+hs
+j
+pp
+r1
+r2
+w
+w1
+w2

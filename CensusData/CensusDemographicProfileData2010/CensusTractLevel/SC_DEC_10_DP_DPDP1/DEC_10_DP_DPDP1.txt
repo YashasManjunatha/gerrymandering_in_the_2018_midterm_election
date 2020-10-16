@@ -1,0 +1,155 @@
+DP-1
+Profile of General Population and Housing Characteristics: 2010
+
+NOTE:  For more information on confidentiality protection, nonsampling error, and definitions, see http://www.census.gov/prod/cen2010/doc/dpsf.pdf.
+
+(r48026)	This count has been revised.   
+Revised count: 3,315 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r36249)	This count has been revised.   
+Revised count: 3,309 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r8945)	This count has been revised.   
+Revised count: 1,098 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r24127)	This count has been revised.   
+Revised count: 1,269 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r14113)	This count has been revised.   
+Revised count: 171 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r48027)	This count has been revised.   
+Revised count: 11,262 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r36250)	This count has been revised.   
+Revised count: 11,014 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r8946)	This count has been revised.   
+Revised count: 6,058 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r24128)	This count has been revised.   
+Revised count: 6,996 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r14114)	This count has been revised.   
+Revised count: 938 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r24129)	This count has been revised.   
+Revised count: 3,608 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r14115)	This count has been revised.   
+Revised count: 477 Revision date: 12-27-2012
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r48151)	This count has been revised.   
+Revised count: 5,333 Revision date: 02-22-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r26940)	This count has been revised.   
+Revised count: 453 Revision date: 02-22-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r48159)	This count has been revised.   
+Revised count: 2,904 Revision date: 02-22-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+(r26948)	This count has been revised.   
+Revised count: 0 Revision date: 02-22-2013
+
+For more information, see  2010 Census Count Question Resolution.
+
+  
+
+
+X  Not applicable.
+
+[1] Other Asian alone, or two or more Asian categories.
+
+[2] Other Pacific Islander alone, or two or more Native Hawaiian and Other Pacific Islander categories.
+
+[3] One of the four most commonly reported multiple-race combinations nationwide in Census 2000.
+
+[4] In combination with one or more of the other races listed.  The six numbers may add to more than the total population, and the six percentages may add to more than 100 percent because individuals may report more than one race.
+
+[5] This category is composed of people whose origins are from the Dominican Republic, Spain, and  Spanish-speaking Central or South American countries.  It also includes general origin responses such as "Latino" or "Hispanic."
+
+[6] "Spouse" represents spouse of the householder.  It does not reflect all spouses in a household. Responses of "same-sex spouse" were edited during processing to "unmarried partner."
+
+[7] "Family households" consist of a householder and one or more other people related to the householder by birth, marriage, or adoption.  They do not include same-sex married couples even if the marriage was performed in a state issuing marriage certificates for same-sex couples.  Same-sex couple households are included in the family households category if there is at least one additional person related to the householder by birth or adoption.  Same-sex couple households with no relatives of the householder present are tabulated in nonfamily households.  "Nonfamily households" consist of people living alone and households which do not have any members related to the householder.
+
+[8] The homeowner vacancy rate is the proportion of the homeowner inventory that is vacant "for sale."  It is computed by dividing the total number of vacant units "for sale only" by the sum of owner-occupied units, vacant units that are "for sale only," and vacant units that have been sold but not yet occupied; and then multiplying by 100.
+
+[9] The rental vacancy rate is the proportion of the rental inventory that is vacant "for rent."  It is computed by dividing the total number of vacant units "for rent" by the sum of the renter-occupied units, vacant units that are "for rent," and vacant units that have been rented but not yet occupied; and then multiplying by 100.
+
+Source: U.S. Census Bureau, 2010 Census.
+

@@ -1,0 +1,9 @@
+east
+mh
+new
+nix
+north
+pro
+sal
+south
+west

@@ -1,0 +1,13 @@
+PRECINCT	DEM	REP	TOTAL
+north	709	833	1589
+mars h	1189	1329	2596
+hot sp	255	276	546
+spring	233	271	521
+walnut	369	479	867
+grapev	304	416	740
+south	325	321	666
+laurel	243	343	597
+beech	652	1086	1786
+ebbs c	252	434	707
+revere	111	70	192
+sandy	154	191	356

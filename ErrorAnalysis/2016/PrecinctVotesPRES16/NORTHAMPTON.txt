@@ -1,0 +1,19 @@
+PRECINCT	DEM	REP	TOTAL
+rehobe	117	64	182
+gaston	1252	469	1737
+conway	224	320	553
+pleasa	171	72	244
+jackso	298	202	505
+poteca	104.0	40.0	144.0
+seaboa	459	208	671
+lake g	427	534	971
+lasker	59	149	209
+newtow	171	208	385
+creeks	199	274	477
+rich s	757	193	959
+pendle	88	79	171
+severn	118	142	266
+garysb	1035	116	1152
+woodla	308	175	489
+galati	218	219	442
+milwau	139	118	262

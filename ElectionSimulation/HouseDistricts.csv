@@ -1,0 +1,436 @@
+stateFP,stateAbbr,stateName,district
+01,AL,Alabama,1
+01,AL,Alabama,2
+01,AL,Alabama,3
+01,AL,Alabama,4
+01,AL,Alabama,5
+01,AL,Alabama,6
+01,AL,Alabama,7
+02,AK,Alaska,At Large
+04,AZ,Arizona,1
+04,AZ,Arizona,2
+04,AZ,Arizona,3
+04,AZ,Arizona,4
+04,AZ,Arizona,5
+04,AZ,Arizona,6
+04,AZ,Arizona,7
+04,AZ,Arizona,8
+04,AZ,Arizona,9
+05,AR,Arkansas,1
+05,AR,Arkansas,2
+05,AR,Arkansas,3
+05,AR,Arkansas,4
+06,CA,California,1
+06,CA,California,2
+06,CA,California,3
+06,CA,California,4
+06,CA,California,5
+06,CA,California,6
+06,CA,California,7
+06,CA,California,8
+06,CA,California,9
+06,CA,California,10
+06,CA,California,11
+06,CA,California,12
+06,CA,California,13
+06,CA,California,14
+06,CA,California,15
+06,CA,California,16
+06,CA,California,17
+06,CA,California,18
+06,CA,California,19
+06,CA,California,20
+06,CA,California,21
+06,CA,California,22
+06,CA,California,23
+06,CA,California,24
+06,CA,California,25
+06,CA,California,26
+06,CA,California,27
+06,CA,California,28
+06,CA,California,29
+06,CA,California,30
+06,CA,California,31
+06,CA,California,32
+06,CA,California,33
+06,CA,California,34
+06,CA,California,35
+06,CA,California,36
+06,CA,California,37
+06,CA,California,38
+06,CA,California,39
+06,CA,California,40
+06,CA,California,41
+06,CA,California,42
+06,CA,California,43
+06,CA,California,44
+06,CA,California,45
+06,CA,California,46
+06,CA,California,47
+06,CA,California,48
+06,CA,California,49
+06,CA,California,50
+06,CA,California,51
+06,CA,California,52
+06,CA,California,53
+08,CO,Colorado,1
+08,CO,Colorado,2
+08,CO,Colorado,3
+08,CO,Colorado,4
+08,CO,Colorado,5
+08,CO,Colorado,6
+08,CO,Colorado,7
+09,CT,Connecticut,1
+09,CT,Connecticut,2
+09,CT,Connecticut,3
+09,CT,Connecticut,4
+09,CT,Connecticut,5
+10,DE,Delaware,At Large
+12,FL,Florida,1
+12,FL,Florida,2
+12,FL,Florida,3
+12,FL,Florida,4
+12,FL,Florida,5
+12,FL,Florida,6
+12,FL,Florida,7
+12,FL,Florida,8
+12,FL,Florida,9
+12,FL,Florida,10
+12,FL,Florida,11
+12,FL,Florida,12
+12,FL,Florida,13
+12,FL,Florida,14
+12,FL,Florida,15
+12,FL,Florida,16
+12,FL,Florida,17
+12,FL,Florida,18
+12,FL,Florida,19
+12,FL,Florida,20
+12,FL,Florida,21
+12,FL,Florida,22
+12,FL,Florida,23
+12,FL,Florida,24
+12,FL,Florida,25
+12,FL,Florida,26
+12,FL,Florida,27
+13,GA,Georgia,1
+13,GA,Georgia,2
+13,GA,Georgia,3
+13,GA,Georgia,4
+13,GA,Georgia,5
+13,GA,Georgia,6
+13,GA,Georgia,7
+13,GA,Georgia,8
+13,GA,Georgia,9
+13,GA,Georgia,10
+13,GA,Georgia,11
+13,GA,Georgia,12
+13,GA,Georgia,13
+13,GA,Georgia,14
+15,HI,Hawaii,1
+15,HI,Hawaii,2
+16,ID,Idaho,1
+16,ID,Idaho,2
+17,IL,Illinois,1
+17,IL,Illinois,2
+17,IL,Illinois,3
+17,IL,Illinois,4
+17,IL,Illinois,5
+17,IL,Illinois,6
+17,IL,Illinois,7
+17,IL,Illinois,8
+17,IL,Illinois,9
+17,IL,Illinois,10
+17,IL,Illinois,11
+17,IL,Illinois,12
+17,IL,Illinois,13
+17,IL,Illinois,14
+17,IL,Illinois,15
+17,IL,Illinois,16
+17,IL,Illinois,17
+17,IL,Illinois,18
+18,IN,Indiana,1
+18,IN,Indiana,2
+18,IN,Indiana,3
+18,IN,Indiana,4
+18,IN,Indiana,5
+18,IN,Indiana,6
+18,IN,Indiana,7
+18,IN,Indiana,8
+18,IN,Indiana,9
+19,IA,Iowa,1
+19,IA,Iowa,2
+19,IA,Iowa,3
+19,IA,Iowa,4
+20,KS,Kansas,1
+20,KS,Kansas,2
+20,KS,Kansas,3
+20,KS,Kansas,4
+21,KY,Kentucky,1
+21,KY,Kentucky,2
+21,KY,Kentucky,3
+21,KY,Kentucky,4
+21,KY,Kentucky,5
+21,KY,Kentucky,6
+22,LA,Louisiana,1
+22,LA,Louisiana,2
+22,LA,Louisiana,3
+22,LA,Louisiana,4
+22,LA,Louisiana,5
+22,LA,Louisiana,6
+23,ME,Maine,1
+23,ME,Maine,2
+24,MD,Maryland,1
+24,MD,Maryland,2
+24,MD,Maryland,3
+24,MD,Maryland,4
+24,MD,Maryland,5
+24,MD,Maryland,6
+24,MD,Maryland,7
+24,MD,Maryland,8
+25,MA,Massachusetts,1
+25,MA,Massachusetts,2
+25,MA,Massachusetts,3
+25,MA,Massachusetts,4
+25,MA,Massachusetts,5
+25,MA,Massachusetts,6
+25,MA,Massachusetts,7
+25,MA,Massachusetts,8
+25,MA,Massachusetts,9
+26,MI,Michigan,1
+26,MI,Michigan,2
+26,MI,Michigan,3
+26,MI,Michigan,4
+26,MI,Michigan,5
+26,MI,Michigan,6
+26,MI,Michigan,7
+26,MI,Michigan,8
+26,MI,Michigan,9
+26,MI,Michigan,10
+26,MI,Michigan,11
+26,MI,Michigan,12
+26,MI,Michigan,13
+26,MI,Michigan,14
+27,MN,Minnesota,1
+27,MN,Minnesota,2
+27,MN,Minnesota,3
+27,MN,Minnesota,4
+27,MN,Minnesota,5
+27,MN,Minnesota,6
+27,MN,Minnesota,7
+27,MN,Minnesota,8
+28,MS,Mississippi,1
+28,MS,Mississippi,2
+28,MS,Mississippi,3
+28,MS,Mississippi,4
+29,MO,Missouri,1
+29,MO,Missouri,2
+29,MO,Missouri,3
+29,MO,Missouri,4
+29,MO,Missouri,5
+29,MO,Missouri,6
+29,MO,Missouri,7
+29,MO,Missouri,8
+30,MT,Montana,At Large
+31,NE,Nebraska,1
+31,NE,Nebraska,2
+31,NE,Nebraska,3
+32,NV,Nevada,1
+32,NV,Nevada,2
+32,NV,Nevada,3
+32,NV,Nevada,4
+33,NH,New Hampshire,1
+33,NH,New Hampshire,2
+34,NJ,New Jersey,1
+34,NJ,New Jersey,2
+34,NJ,New Jersey,3
+34,NJ,New Jersey,4
+34,NJ,New Jersey,5
+34,NJ,New Jersey,6
+34,NJ,New Jersey,7
+34,NJ,New Jersey,8
+34,NJ,New Jersey,9
+34,NJ,New Jersey,10
+34,NJ,New Jersey,11
+34,NJ,New Jersey,12
+35,NM,New Mexico,1
+35,NM,New Mexico,2
+35,NM,New Mexico,3
+36,NY,New York,1
+36,NY,New York,2
+36,NY,New York,3
+36,NY,New York,4
+36,NY,New York,5
+36,NY,New York,6
+36,NY,New York,7
+36,NY,New York,8
+36,NY,New York,9
+36,NY,New York,10
+36,NY,New York,11
+36,NY,New York,12
+36,NY,New York,13
+36,NY,New York,14
+36,NY,New York,15
+36,NY,New York,16
+36,NY,New York,17
+36,NY,New York,18
+36,NY,New York,19
+36,NY,New York,20
+36,NY,New York,21
+36,NY,New York,22
+36,NY,New York,23
+36,NY,New York,24
+36,NY,New York,25
+36,NY,New York,26
+36,NY,New York,27
+37,NC,North Carolina,1
+37,NC,North Carolina,2
+37,NC,North Carolina,3
+37,NC,North Carolina,4
+37,NC,North Carolina,5
+37,NC,North Carolina,6
+37,NC,North Carolina,7
+37,NC,North Carolina,8
+37,NC,North Carolina,9
+37,NC,North Carolina,10
+37,NC,North Carolina,11
+37,NC,North Carolina,12
+37,NC,North Carolina,13
+38,ND,North Dakota,At Large
+39,OH,Ohio,1
+39,OH,Ohio,2
+39,OH,Ohio,3
+39,OH,Ohio,4
+39,OH,Ohio,5
+39,OH,Ohio,6
+39,OH,Ohio,7
+39,OH,Ohio,8
+39,OH,Ohio,9
+39,OH,Ohio,10
+39,OH,Ohio,11
+39,OH,Ohio,12
+39,OH,Ohio,13
+39,OH,Ohio,14
+39,OH,Ohio,15
+39,OH,Ohio,16
+40,OK,Oklahoma,1
+40,OK,Oklahoma,2
+40,OK,Oklahoma,3
+40,OK,Oklahoma,4
+40,OK,Oklahoma,5
+41,OR,Oregon,1
+41,OR,Oregon,2
+41,OR,Oregon,3
+41,OR,Oregon,4
+41,OR,Oregon,5
+42,PA,Pennsylvania,1
+42,PA,Pennsylvania,2
+42,PA,Pennsylvania,3
+42,PA,Pennsylvania,4
+42,PA,Pennsylvania,5
+42,PA,Pennsylvania,6
+42,PA,Pennsylvania,7
+42,PA,Pennsylvania,8
+42,PA,Pennsylvania,9
+42,PA,Pennsylvania,10
+42,PA,Pennsylvania,11
+42,PA,Pennsylvania,12
+42,PA,Pennsylvania,13
+42,PA,Pennsylvania,14
+42,PA,Pennsylvania,15
+42,PA,Pennsylvania,16
+42,PA,Pennsylvania,17
+42,PA,Pennsylvania,18
+44,RI,Rhode Island,1
+44,RI,Rhode Island,2
+45,SC,South Carolina,1
+45,SC,South Carolina,2
+45,SC,South Carolina,3
+45,SC,South Carolina,4
+45,SC,South Carolina,5
+45,SC,South Carolina,6
+45,SC,South Carolina,7
+46,SD,South Dakota,At Large
+47,TN,Tennessee,1
+47,TN,Tennessee,2
+47,TN,Tennessee,3
+47,TN,Tennessee,4
+47,TN,Tennessee,5
+47,TN,Tennessee,6
+47,TN,Tennessee,7
+47,TN,Tennessee,8
+47,TN,Tennessee,9
+48,TX,Texas,1
+48,TX,Texas,2
+48,TX,Texas,3
+48,TX,Texas,4
+48,TX,Texas,5
+48,TX,Texas,6
+48,TX,Texas,7
+48,TX,Texas,8
+48,TX,Texas,9
+48,TX,Texas,10
+48,TX,Texas,11
+48,TX,Texas,12
+48,TX,Texas,13
+48,TX,Texas,14
+48,TX,Texas,15
+48,TX,Texas,16
+48,TX,Texas,17
+48,TX,Texas,18
+48,TX,Texas,19
+48,TX,Texas,20
+48,TX,Texas,21
+48,TX,Texas,22
+48,TX,Texas,23
+48,TX,Texas,24
+48,TX,Texas,25
+48,TX,Texas,26
+48,TX,Texas,27
+48,TX,Texas,28
+48,TX,Texas,29
+48,TX,Texas,30
+48,TX,Texas,31
+48,TX,Texas,32
+48,TX,Texas,33
+48,TX,Texas,34
+48,TX,Texas,35
+48,TX,Texas,36
+49,UT,Utah,1
+49,UT,Utah,2
+49,UT,Utah,3
+49,UT,Utah,4
+50,VT,Vermont,At Large
+51,VA,Virginia,1
+51,VA,Virginia,2
+51,VA,Virginia,3
+51,VA,Virginia,4
+51,VA,Virginia,5
+51,VA,Virginia,6
+51,VA,Virginia,7
+51,VA,Virginia,9
+51,VA,Virginia,8
+51,VA,Virginia,10
+51,VA,Virginia,11
+53,WA,Washington,1
+53,WA,Washington,2
+53,WA,Washington,3
+53,WA,Washington,4
+53,WA,Washington,5
+53,WA,Washington,6
+53,WA,Washington,7
+53,WA,Washington,8
+53,WA,Washington,9
+53,WA,Washington,10
+54,WV,West Virginia,1
+54,WV,West Virginia,2
+54,WV,West Virginia,3
+55,WI,Wisconsin,1
+55,WI,Wisconsin,2
+55,WI,Wisconsin,3
+55,WI,Wisconsin,4
+55,WI,Wisconsin,5
+55,WI,Wisconsin,6
+55,WI,Wisconsin,7
+55,WI,Wisconsin,8
+56,WY,Wyoming,At Large
