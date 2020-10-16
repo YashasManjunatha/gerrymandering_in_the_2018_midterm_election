@@ -5,7 +5,3 @@ Partisan gerrymandering is a peril to democratic elections in the United States.
 ![](/Figures/NC_Democrat_Vote_Fraction_Plot.png)
 
 ![](/Figures/newplot.png)
-
-![](/Figures/seat_compact_1.png)
-
-![](/Figures/seat_prop_1.png)
